@@ -1,0 +1,6 @@
+{
+  "created": "placeholder",
+  "models": [
+    "random_forest_model.pkl"
+  ]
+}
